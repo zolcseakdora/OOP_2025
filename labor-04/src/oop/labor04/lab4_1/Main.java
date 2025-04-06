@@ -10,7 +10,7 @@ public class Main {
 
     public static void main(String[] args) {
         readFromTextFile("lab4_1.txt");
-        readFromTextFile("lab4_1_input.csv");
+        readFromCSVFile("lab4_1_input.csv");
     }
 
     public static void readFromTextFile(String fileName) {

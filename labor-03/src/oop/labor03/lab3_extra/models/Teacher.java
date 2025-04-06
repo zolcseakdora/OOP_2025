@@ -5,7 +5,7 @@ import oop.labor03.lab3_extra.enums.Department;
 
 public class Teacher {
     private static int currentNumberOfTeachers = 0;
-    private int id;
+    private static int id;
     private String firstName;
     private String lastName;
     private Degree degree;

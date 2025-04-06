@@ -10,7 +10,7 @@ public class Course {
     private int credits;
     private DayOfWeek dayOfWeek;
     private Teacher teacher;
-    private List<Student> students = new ArrayList<>();
+    private ArrayList<Student> students = new ArrayList<>();
     private static final int MAX_STUDENTS = 120;
 
     public Course(String courseId, int credits, DayOfWeek dayOfWeek) {

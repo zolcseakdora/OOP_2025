@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Oop.2025.iml" filepath="$PROJECT_DIR$/.idea/Oop.2025.iml" />
       <module fileurl="file://$PROJECT_DIR$/courses_06/courses_06.iml" filepath="$PROJECT_DIR$/courses_06/courses_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/evkozi_proba_2/evkozi_proba_2.iml" filepath="$PROJECT_DIR$/evkozi_proba_2/evkozi_proba_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/evkozi_vizsga_proba_1/evkozi_vizsga_proba_1.iml" filepath="$PROJECT_DIR$/evkozi_vizsga_proba_1/evkozi_vizsga_proba_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/labor-01/labor-01.iml" filepath="$PROJECT_DIR$/labor-01/labor-01.iml" />
       <module fileurl="file://$PROJECT_DIR$/labor-02/labor-02.iml" filepath="$PROJECT_DIR$/labor-02/labor-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/labor-03/labor-03.iml" filepath="$PROJECT_DIR$/labor-03/labor-03.iml" />
