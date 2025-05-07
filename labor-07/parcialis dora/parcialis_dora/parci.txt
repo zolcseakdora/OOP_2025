@@ -1,0 +1,3 @@
+1,dora, 2005,06,08,nem tudom
+2, mate, 2025,03,08, lesz ami lesz
+3, anya, 1973,02,18, szuletesnap

@@ -1,0 +1,5 @@
+id,name,creation date,content
+1,dora,MyDate{year=2005, month=10, day=12},ez egy java parcialis
+ez nemlesz jo
+tenyleg nem megy
+
